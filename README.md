@@ -1,5 +1,5 @@
 # Food Distribution Website V2
-
+...
 Flask + SQLite lab project with 3 roles:
 
 - **Admin**: approves/rejects donations, manages users, manages requests, updates donation status
